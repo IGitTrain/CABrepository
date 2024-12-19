@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+CABLIVE objects:
+    Objects with requisites in library CABLIVE: 7
+    Objects with requisites in library CABLIVE: 7
+    Objects with requisites in library CABSRC: 13
+
+Detail report:
+CABLIVE objects:
+    Objects with requisites in library CABLIVE:
+        *FILE LF        CABLIVE/CUSMSTL1                    
+        *FILE LF        CABLIVE/CUSMSTL2                    
+        *FILE LF        CABLIVE/CUSMSTL3                    
+        *FILE DSPF      CABLIVE/MNTMENU                     
+        *FILE DSPF      CABLIVE/SCHNAMD                     
+        *FILE DSPF      CABLIVE/SCHZIPD                     
+        *PGM RPGLE      CABLIVE/CUSTMAINT                   
+    Objects with requisites in library CABSRC:
+        *CMD            CABLIVE/CUSTMAINT                   
+        *FILE PF        CABLIVE/CUSMST                      
+        *FILE LF        CABLIVE/CUSMSTL1                    
+        *FILE LF        CABLIVE/CUSMSTL2                    
+        *FILE LF        CABLIVE/CUSMSTL3                    
+        *FILE DSPF      CABLIVE/MAINMENU                    
+        *FILE DSPF      CABLIVE/MNTMENU                     
+        *FILE DSPF      CABLIVE/SCHNAMD                     
+        *FILE DSPF      CABLIVE/SCHZIPD                     
+        *MODULE RPGLE   CABLIVE/CUSMAIN                     
+        *MODULE RPGLE   CABLIVE/CUSMNT                      
+        *MODULE RPGLE   CABLIVE/SCHNAM                      
+        *MODULE RPGLE   CABLIVE/SCHZIP                      
+End of Requisite Location Report.

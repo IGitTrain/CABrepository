@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+CABLIVE objects:
+    Objects with source in library CABSRC: 14
+
+Detail report:
+CABLIVE objects:
+    Objects with source in library CABSRC:
+        *MODULE RPGLE   CABLIVE/CUSMAIN                     
+        *FILE DSPF      CABLIVE/MAINMENU                    
+        *MODULE RPGLE   CABLIVE/CUSMNT                      
+        *FILE LF        CABLIVE/CUSMSTL1                    
+        *FILE PF        CABLIVE/CUSMST                      
+        *FILE DSPF      CABLIVE/MNTMENU                     
+        *MODULE RPGLE   CABLIVE/SCHNAM                      
+        *FILE LF        CABLIVE/CUSMSTL3                    
+        *FILE DSPF      CABLIVE/SCHNAMD                     
+        *MODULE RPGLE   CABLIVE/SCHZIP                      
+        *FILE LF        CABLIVE/CUSMSTL2                    
+        *FILE DSPF      CABLIVE/SCHZIPD                     
+        *PGM RPGLE      CABLIVE/SCHNAMRPG                   
+        *CMD            CABLIVE/CUSTMAINT                   
+End of Source Location Report.
